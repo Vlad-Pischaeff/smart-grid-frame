@@ -1,0 +1,20 @@
+{
+  "name": "smart-grid.chest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-less": "^4.0.1",
+    "gulp-postcss": "^8.0.0",
+    "smart-grid": "^2.1.2"
+  }
+}
